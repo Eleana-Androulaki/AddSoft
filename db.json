@@ -1,0 +1,96 @@
+{
+  "user": {
+    "password": "123456"
+  },
+  "depositLimits": {
+    "id": "dep-1b9d6bcd",
+    "amount": {
+      "value": 25879,
+      "unit": "EUR"
+    },
+    "changedAt": "2023-09-28T16:11:21.613Z",
+    "ableTochangedAt": "2023-10-28T16:11:21.613Z",
+    "timePeriod": "monthly",
+    "periodOptions": [
+      "daily",
+      "weekly",
+      "monthly"
+    ],
+    "amountOptions": [
+      {
+        "value": "other",
+        "unit": ""
+      },
+      {
+        "value": 50000,
+        "unit": "EUR"
+      },
+      {
+        "value": 100000,
+        "unit": "EUR"
+      },
+      {
+        "value": 250000,
+        "unit": "EUR"
+      }
+    ]
+  },
+  "lossLimits": {
+    "id": "loss-1b9d6bcd",
+    "amount": {
+      "value": 100000,
+      "unit": "EUR"
+    },
+    "changedAt": "2023-09-28T16:11:45.552Z",
+    "ableTochangedAt": "2023-10-28T16:11:45.552Z",
+    "timePeriod": "monthly",
+    "periodOptions": [
+      "daily",
+      "weekly",
+      "monthly"
+    ],
+    "amountOptions": [
+      {
+        "value": "other",
+        "unit": ""
+      },
+      {
+        "value": 50000,
+        "unit": "EUR"
+      },
+      {
+        "value": 100000,
+        "unit": "EUR"
+      },
+      {
+        "value": 250000,
+        "unit": "EUR"
+      }
+    ]
+  },
+  "timeLimits": {
+    "id": "time-1b9d6bcd",
+    "amount": {
+      "value": "20:50",
+      "unit": "hours"
+    },
+    "changedAt": "2023-09-28T16:12:09.441Z",
+    "ableTochangedAt": "2023-10-05T16:12:09.441Z",
+    "timePeriod": "weekly",
+    "periodOptions": [
+      "daily",
+      "weekly",
+      "monthly"
+    ],
+    "amountOptions": [
+      {
+        "value": "other",
+        "unit": ""
+      },
+      {
+        "value": "18:00",
+        "unit": "hours"
+      }
+    ]
+  }
+}
