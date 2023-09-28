@@ -5,12 +5,12 @@
   "depositLimits": {
     "id": "dep-1b9d6bcd",
     "amount": {
-      "value": 25879,
+      "value": 100000,
       "unit": "EUR"
     },
-    "changedAt": "2023-09-28T16:11:21.613Z",
-    "ableTochangedAt": "2023-10-28T16:11:21.613Z",
-    "timePeriod": "monthly",
+    "changedAt": "2023-09-28T16:31:57.418Z",
+    "ableTochangedAt": "2023-10-05T16:31:57.418Z",
+    "timePeriod": "weekly",
     "periodOptions": [
       "daily",
       "weekly",
@@ -38,12 +38,12 @@
   "lossLimits": {
     "id": "loss-1b9d6bcd",
     "amount": {
-      "value": 100000,
+      "value": 25600,
       "unit": "EUR"
     },
-    "changedAt": "2023-09-28T16:11:45.552Z",
-    "ableTochangedAt": "2023-10-28T16:11:45.552Z",
-    "timePeriod": "monthly",
+    "changedAt": "2023-09-28T16:32:13.901Z",
+    "ableTochangedAt": "2023-09-29T16:32:13.901Z",
+    "timePeriod": "daily",
     "periodOptions": [
       "daily",
       "weekly",
@@ -71,11 +71,11 @@
   "timeLimits": {
     "id": "time-1b9d6bcd",
     "amount": {
-      "value": "20:50",
+      "value": "12:34",
       "unit": "hours"
     },
-    "changedAt": "2023-09-28T16:12:09.441Z",
-    "ableTochangedAt": "2023-10-05T16:12:09.441Z",
+    "changedAt": "2023-09-28T16:39:09.268Z",
+    "ableTochangedAt": "2023-10-05T16:39:09.268Z",
     "timePeriod": "weekly",
     "periodOptions": [
       "daily",
